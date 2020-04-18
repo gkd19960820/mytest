@@ -1,3 +1,5 @@
 dsafsdfsd
 111111
-fdfds
+git add .
+git commit -m "1"
+git push
